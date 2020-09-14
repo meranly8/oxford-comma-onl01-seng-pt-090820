@@ -8,12 +8,3 @@ def oxford_comma(array)
     array.join(" and ")  
   end
 end
-
-
-parks = ["Glacier", "Yellowstone", "Yosemite", "Mammoth"]
-birds = ["Blue", "Cardinal"]
-fruit = ["Pineapple"]
-
-puts oxford_comma(parks)
-puts oxford_comma(birds)
-puts oxford_comma(fruit)
