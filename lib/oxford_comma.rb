@@ -12,4 +12,4 @@ end
 
 parks = ["Glacier", "Yellowstone", "Yosemite", "Mammoth"]
 
-oxford_comma(parks)
+puts oxford_comma(parks)
